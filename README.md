@@ -1,2 +1,2 @@
 # Calc
-Caculate Java
+Calculate Java
